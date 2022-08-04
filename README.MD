@@ -1,4 +1,4 @@
-# Sistema eccommerce API REST de libros
+# Sistema ecommerce API REST de libros
 Aplicación api rest creada en java spring, para simular un ecommerce de libros, con autenticación JWT y con el consumo vía postman.
 
 * Repository Maven:
